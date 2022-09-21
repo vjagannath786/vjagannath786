@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, world! 👋
+
+About Me:
+
+Likes snake but dislikes coffee.
+
 
 <!--
 **vjagannath786/vjagannath786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
