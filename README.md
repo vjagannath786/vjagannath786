@@ -2,7 +2,7 @@
 
 About Me:
 
-Likes snake but dislikes coffee.
+Pretending to be a Data Scientist.
 
 
 <!--
