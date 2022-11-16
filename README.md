@@ -2,7 +2,8 @@
 
 About Me:
 
-Pretending to be a Data Scientist.
+
+![0_oGJWH3lbwB9i0rKV](https://user-images.githubusercontent.com/36917923/202230343-5c2577dc-8915-459f-8adb-9959c9a0253b.png)
 
 
 <!--
